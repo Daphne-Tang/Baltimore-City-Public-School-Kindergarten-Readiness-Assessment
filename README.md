@@ -3,11 +3,14 @@
 ## Background
 
 ## Business Question
+How should Baltimore City allocate resources to improve kindergarten readiness for its public schools? 
 
 ## Data Question - Open Data
 
 ## Data Question - Analysis
 This analysis uses Microsoft Excel to answer the following questions:
+- How prepared are kindergarten students who enter Baltimore City Public Schools in math, language and literacy, physical development, and social foundations? How do results differ from students who are economically disadvantaged, non-native English speakers, and have different types of prior care?
+- How can we group Baltimore City Schools based on the readiness of their kindergarten students?
 
 ## Data Answer
 
