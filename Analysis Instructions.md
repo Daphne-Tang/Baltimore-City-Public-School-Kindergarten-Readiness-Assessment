@@ -12,6 +12,8 @@ The pivot tables seek to represent the average scores and percent readiness for 
   - Average of Average Math Score
   - Average of Average Physical Development Score
   - Average of Average Social Foundations Score
+
+Hide the row called Race: Native Hawaiian/Pacific Islander because there is insufficient data. The values in the pivot table end up being #DIV/O!
   
   ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Instructions%20-%20Pivot%20Tables.png)
   
