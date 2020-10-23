@@ -5,8 +5,6 @@
 
 Baltimore City has already invested in early learning programs like [Judy Centers](https://earlychildhood.marylandpublicschools.org/families/judy-centers) that provide pre-kindergarten classrooms, child care assistance, developmental and health screenings, family enagement activities, parenting classes, and play groups. The Judy Centers address the needs of both students and families to provide multiple forms of support in a child's academic and social development. Comparing the impact of Baltimore City early learning programs with traditional child care centers, home care, or other public settings could generate insights into the successes, challenges, and strategies for improvement. 
 
-This analysis also seeks to explore how the Baltimore City Public School System should allocate resources to different schools or programs through a geographic 
-
 ## Business Question
 How should Baltimore City allocate resources to improve kindergarten readiness for its public schools? 
 
@@ -23,6 +21,14 @@ The dataset includes the following for each school and student group:
 - Percent Emerging Readiness
 - Percent Approaching Readiness
 - Percent Demonstrating Readiness
+
+The student groups include the following: 
+- All students
+- Economic Disadvantaged: Yes
+- English Learners: Yes
+- Gender: Female
+- Gender: Male
+- Prior Care: Baltimore City Public Schools Pre-K
 
 ## Data Question - Analysis
 This analysis uses Microsoft Excel to answer the following questions:
