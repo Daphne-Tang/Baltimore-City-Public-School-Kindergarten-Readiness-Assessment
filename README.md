@@ -50,14 +50,6 @@ Pivot tables produced the following graphs illustrating the average scores for c
 
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Scale%20Score%20By%20Type%20of%20Prior%20Care.png)
 
-![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Language%20and%20Literacy%20Score%20By%20Type%20of%20Prior%20Care.png)
-
-![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Math%20Score%20by%20Type%20of%20Prior%20Care.png)
-
-![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Physical%20Development%20Score%20By%20Type%20of%20Prior%20Care.png)
-
-![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Social%20Foundations%20Score%20By%20Type%20of%20Prior%20Care.png)
-
 The following two graphs demonstrate the scores for economically disadvantaged students and English Learners. Both student groups tend to be stronger in physical development and social foundations but are lacking in language and literacy and math skills. 
 
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Scores%20for%20Economically%20Disadvantaged%20Students.png)
