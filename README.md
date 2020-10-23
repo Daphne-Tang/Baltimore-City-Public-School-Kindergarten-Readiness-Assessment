@@ -46,7 +46,7 @@ This analysis uses Microsoft Excel to answer the following questions:
 - How can we group Baltimore City Schools based on the readiness of their kindergarten students?
 
 ## Data Answer
-Pivot tables produced the following graphs illustrating the average scores for children with different forms of prior care. A clear pattern emerges because informal scare has the lowest average scale, language and literacy, math, physical development, and social foundations scores. Across all areas, the scores then gradually increase for prior cares in the following order: Family Child Care Centers, Head Starts, Child Care Centers, Baltimore City Public Schools Pre-Ks without Judy Centers, Baltimore City Judy Center Judy Center Pre-Ks, and non-public nursery schools. 
+Pivot tables produced the following graphs illustrating the average scores for children with different forms of prior care. A clear pattern emerges because informal scare has the lowest average scale, language and literacy, math, physical development, and social foundations scores. Across all areas, the scores then gradually increase for prior cares in the following order: Family Child Care Centers, Other Pre-Ks, Head Starts, Child Care Centers, Baltimore City Public Schools Pre-Ks without Judy Centers, Baltimore City Judy Center Judy Center Pre-Ks, and non-public nursery schools. 
 
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Scale%20Score%20By%20Type%20of%20Prior%20Care.png)
 
