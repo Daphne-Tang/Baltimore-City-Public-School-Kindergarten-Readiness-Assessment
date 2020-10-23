@@ -12,9 +12,15 @@ The pivot tables seek to represent the average scores and percent readiness for 
   - Average of Average Math Score
   - Average of Average Physical Development Score
   - Average of Average Social Foundations Score
+  
+  ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Instructions%20-%20Pivot%20Tables.png)
+  
 3. Create pivot table graphs highlighting the average scores across all skills for different student groups. Here are the steps using prior care and average scale score as an example: 
 - Copy and paste the data that you would like on the graph
 - Highlight the data and insert bar chart. 
 - Rename the title, horizontal axis, and vertical axis 
+
+  ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Instructions%20-%20Pivot%20Table%20Graph.png)
+  ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Scale%20Score%20By%20Type%20of%20Prior%20Care.png)
 
 ## Clusters
