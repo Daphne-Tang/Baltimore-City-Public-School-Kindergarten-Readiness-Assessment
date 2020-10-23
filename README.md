@@ -29,23 +29,16 @@ The student groups (with definitions from the dataset) are the following:
 - Gender
 - Race
 - Prior Care: 
-  - Baltimore City Public Schools Pre-K With Judy Center 
-  - Baltimore City Public Schools Pre-K Without Judy Center
-  - Head Start
-    - A federal preschool program for children from low-income families
-  - Child Care Center
-    - Child care provided in a facility, usually non-residential, for part/all of the day that provides care to children in the absence of the parent
-  - Family Child Care Center
-    - Regulated care given to a child younger than 13 years old, in place of parental care for less than 24 hours a day, in a residence other than the child’s  residence and for which the provider is paid
-  - Informal Care
-    - Care by parent(s) or a relative
-  - Non-Public Nursery School
-    - Preschool programs with an education focus for 3-4 year olds that is part-day and occurs nine months a year.
-  - Repeated Kindergarten
-    - The student was enrolled in kindergarten in the prior school year
-  - Unknown
-    - The student did not have a prior care setting recorded in the official test file from Maryland State Department of Education
-  - Other Pre-K
+  - **Baltimore City Public Schools Pre-K With Judy Center**
+  - **Baltimore City Public Schools Pre-K Without Judy Center**
+  - **Head Start:** A federal preschool program for children from low-income families
+  - **Child Care Center:** Child care provided in a facility, usually non-residential, for part/all of the day that provides care to children in the absence of the parent
+  - **Family Child Care Center:** Regulated care given to a child younger than 13 years old, in place of parental care for less than 24 hours a day, in a residence other than the child’s  residence and for which the provider is paid
+  - **Informal Care:** Care by parent(s) or a relative
+  - **Non-Public Nursery School:** Preschool programs with an education focus for 3-4 year olds that is part-day and occurs nine months a year.
+  - **Repeated Kindergarten:** The student was enrolled in kindergarten in the prior school year
+  - **Unknown:** The student did not have a prior care setting recorded in the official test file from Maryland State Department of Education
+  - **Other Pre-K**
 
 ## Data Question - Analysis
 This analysis uses Microsoft Excel to answer the following questions:
