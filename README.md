@@ -82,7 +82,7 @@ In this analysis:
 Approximately 50% of schools fall into the "Medium Readiness" category, whereas the other 50% of schools are split relatively evenly amongst "Low Readiness" and "High Readiness" clusters. 
 
 #### Cluster 2 - Physiosocial Development
-![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/cluster%20physiosocial.png)
+![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/cluster%20physiosocial%202.png)
 
 In this analysis:
 - Cluster 1 "" (Count: 19) 
