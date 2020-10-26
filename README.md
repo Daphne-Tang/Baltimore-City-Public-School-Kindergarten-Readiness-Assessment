@@ -11,7 +11,7 @@ A member of our team also tutors an elementary school student from Baltimore Cit
 How should Baltimore City allocate resources to improve kindergarten readiness for its public schools? 
 
 ## Data Question - Open Data
-This analysis uses data from [Baltimore City Public Schools](https://www.baltimorecityschools.org/data) about student achievement. We wanted to analyze the preparation of students entering Baltimore City Public Schools, so we explored districtwide results for the Maryland State Department of Education Kindergarten Readiness Assessment in 2019-2020. Students take the exam early in their kindergarten year and receive scores on math, language arts, social development, and physical well-being. In contrast to other Maryland counties that only administered the exam to small samples, Baltimore City tested all kindergarten students.
+This analysis uses data from [Baltimore City Public Schools](https://www.baltimorecityschools.org/data) about student achievement. We wanted to analyze the preparation of students entering Baltimore City Public Schools, so we explored districtwide results for the Maryland State Department of Education Kindergarten Readiness Assessment in 2019-2020. Students take the exam early in their kindergarten year and receive scores on math, language arts, social development, and physical well-being. In contrast to other Maryland counties that only administered the exam to small samples, Baltimore City tested all kindergarten students. We chose this data set because it was comprehensive, and the standardized testing scores provided a helpful metric to assess kindergarten readiness. The data also came from Baltimore City Public Schools, which is a credible souce on the topic. 
 
 ### The dataset includes the following for each school and student group: 
 - Test Takers With Overall Score
@@ -41,6 +41,8 @@ This analysis uses data from [Baltimore City Public Schools](https://www.baltimo
   - **Repeated Kindergarten:** The student was enrolled in kindergarten in the prior school year
   - **Unknown:** The student did not have a prior care setting recorded in the official test file from Maryland State Department of Education
   - **Other Pre-K**
+  
+If we had data on the quality of instruction within these prior care programs, then we could pinpoint exactly which areas require improvement. Longitudinal and latitudinal data for the schools would also allow us to determine whether certain geographic areas fare better in kindergarten readiness. Another piece of data that would be useful is the change over time in kindergarten readiness so that we could analyze whether prior care programs should continue what they are doing or not. 
 
 ## Data Question - Analysis
 This analysis uses Microsoft Excel to answer the following questions:
