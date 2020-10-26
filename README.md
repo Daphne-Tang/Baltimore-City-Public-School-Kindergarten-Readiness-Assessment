@@ -49,7 +49,7 @@ This analysis uses Microsoft Excel to answer the following questions:
 
 ## Data Answer
 ### Pivot Tables
-Pivot tables produced the following graphs illustrating the average scores for children with different forms of prior care. A clear pattern emerges because informal scare has the lowest average scale, language and literacy, math, physical development, and social foundations scores. Across all areas, the scores then gradually increase for prior cares in the following order: Family Child Care Centers, Other Pre-Ks, Head Starts, Child Care Centers, Baltimore City Public Schools Pre-Ks without Judy Centers, Baltimore City Judy Center Judy Center Pre-Ks, and non-public nursery schools. 
+Pivot tables produced the following graphs illustrating the average scores for children with different forms of prior care. A clear pattern emerges because informal care has the lowest average scale, language and literacy, math, physical development, and social foundations scores. Across all areas, the scores then gradually increase for prior cares in the following order: Family Child Care Centers, Other Pre-Ks, Head Starts, Child Care Centers, Baltimore City Public Schools Pre-Ks without Judy Centers, Baltimore City Judy Center Judy Center Pre-Ks, and non-public nursery schools. 
 
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Scale%20Score%20By%20Type%20of%20Prior%20Care.png)
 
@@ -60,11 +60,27 @@ The following two graphs demonstrate the scores for economically disadvantaged s
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Scores%20for%20English%20Learners.png)
 
 ### Cluster Analysis
-Cluster analyses show how Baltimore Public Schools can be grouped in terms of 1) readiness 2) physiosocial development. 
+Cluster analyses show how Baltimore Public Schools can be grouped in terms of 1) readiness 2) physiosocial development. The following tables show two 3x-cluster analyses for kindgergarteners at Baltimore Public Schools. The first is based on readiness: Percent Emerging Readiness, Percent Approaching Readiness, and Percent Demonstrating Readiness. The second is based on physiosocial development: Average Language and Literacy Score, Average Math Score, Average Physical Development Score, and Average Social Foundations Score. 
 
+#### Cluster 1 - Readiness
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/cluster%20readiness.png) 
 
+In this analysis:
+- Cluster 1 "Low Readiness" (Count: 26) 
+  - Anchored to Westport Academy
+  - High in emerging readiness, below average in approaching and demonstrating readiness
+- Cluster 2 "High Readiness" (Count: 28)
+  - Anchored to Woodhome Elementary/Middle School
+  - High in demonstrating readiness, below average emerging and approaching readiness
+- Cluster 3 "Medium Readiness" (Count: 58)
+  - Anchored to Garrett Heights Elementary/Middle School
+  - Above average approaching readiness, slightly above average emerging readiness, below average demonstrating readiness
+
+Approximately 50% of schools fall into the "Medium Readiness" category, whereas the other 50% of schools are split relatively evenly amongst "Low Readiness" and "High Readiness" clusters. 
+
+#### Cluster 2 - Physiosocial Development
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/cluster%20physiosocial.png)
+
 
 ## Business Answer
 Based on results from the Kindergarten Readiness Assessment, students receiving informal care from parents or relatives often have the lowest scores across all areas, including language and literacy, math, physical development, and social foundations. Non-public nursery schools have the highest scores, but Baltimore City School Pre-Ks, especially Judy Centers, are close behind. These findings indicate that the Baltimore City Public School System could expand access to their Pre-Ks, particularly for children who are economically disadvantaged and non-native English speakers. The city could also conduct a geographic analysis to identify the locations where children do not have access to prior care and strategically open Judy Centers or city-sponsored programs in those areas. These initiatives would require more funding and resources, but the outcome would be impactful: greater kindergarten readiness would allow students to easily adapt to new school environments in both academics and social interactions with peers. However, the plans outlined above could also help Baltimore City Public Schools conserve resources by making more targeted investments. With the COVID-19 environment, Baltimore City Public Schools could also consider bolstering the online components of their prior cares to sustain the impact of their programs. 
