@@ -60,6 +60,10 @@ The following two graphs demonstrate the scores for economically disadvantaged s
 
 Cluster analyses show how Baltimore Public Schools can be grouped in terms of 1) readiness 2) physiosocial development. 
 
+![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/cluster%20readiness.png) 
+
+![alt text](
+
 ## Business Answer
 Based on results from the Kindergarten Readiness Assessment, students receiving informal care from parents or relatives often have the lowest scores across all areas, including language and literacy, math, physical development, and social foundations. Non-public nursery schools have the highest scores, but Baltimore City School Pre-Ks, especially Judy Centers, are close behind. These findings indicate that the Baltimore City Public School System could expand access to their Pre-Ks, particularly for children who are economically disadvantaged and non-native English speakers. The city could also conduct a geographic analysis to identify the locations where children do not have access to prior care and strategically open Judy Centers or city-sponsored programs in those areas. These initiatives would require more funding and resources, but the outcome would be impactful: greater kindergarten readiness would allow students to easily adapt to new school environments in both academics and social interactions with peers. However, the plans outlined above could also help Baltimore City Public Schools conserve resources by making more targeted investments. With the COVID-19 environment, Baltimore City Public Schools could also consider bolstering the online components of their prior cares to sustain the impact of their programs. 
 
