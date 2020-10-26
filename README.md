@@ -85,17 +85,21 @@ Approximately 50% of schools fall into the "Medium Readiness" category, whereas 
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/cluster%20physiosocial%202.png)
 
 In this analysis:
-- Cluster 1 "" (Count: 19) 
-  - Anchored to Harlem Park Elementary/Middle School
-  - High in emerging readiness, below average in approaching and demonstrating readiness
-- Cluster 2 "" (Count: 68)
-  - Anchored to All Baltimore City Schools
-  - High in demonstrating readiness, below average emerging and approaching readiness
-- Cluster 3 "Medium Readiness" (Count: 25)
-  - Anchored to Garrett Heights Elementary/Middle School
-  - Above average approaching readiness, slightly above average emerging readiness, below average demonstrating readiness
+- Cluster 1 "Low Physiosocial Development" (Count: 12) 
+  - Anchored to Guilford Elementary/Middle School
+  - Well below avaerage in language/literacy, math, physical development, and social foundations scores 
+- Cluster 2 "Medium Physiosocial Development" (Count: 63)
+  - Anchored to Furman Templeton Prepatory Academy
+  - Slightly below avaerage in language/literacy, math, physical development, and social foundations scores 
+- Cluster 3 "High Physiosocial Development" (Count: 36)
+  - Anchored to Dorothy I. Height Elementary School
+  - Above avaerage in language/literacy, math, physical development, and social foundations scores 
 
-Approximately 50% of schools fall into the "Medium Readiness" category, whereas the other 50% of schools are split relatively evenly amongst "Low Readiness" and "High Readiness" clusters. 
+Approximately 50% of schools fall into the "Medium Physiosocial Development" category. About 12.5% of schools are in the "Low Physiosocial Development" cluster and about 37.5% in the "High Physiosocial Development" cluster. In other words, about two thirds of Baltimore Public Schools are in clusters that represent below average physiosocial development. 
+
+#### Cluster Visualization 1 -
+
+#### Cluster Visualization 2 - 
 
 ## Business Answer
 Based on results from the Kindergarten Readiness Assessment, students receiving informal care from parents or relatives often have the lowest scores across all areas, including language and literacy, math, physical development, and social foundations. Non-public nursery schools have the highest scores, but Baltimore City School Pre-Ks, especially Judy Centers, are close behind. These findings indicate that the Baltimore City Public School System could expand access to their Pre-Ks, particularly for children who are economically disadvantaged and non-native English speakers. The city could also conduct a geographic analysis to identify the locations where children do not have access to prior care and strategically open Judy Centers or city-sponsored programs in those areas. These initiatives would require more funding and resources, but the outcome would be impactful: greater kindergarten readiness would allow students to easily adapt to new school environments in both academics and social interactions with peers. However, the plans outlined above could also help Baltimore City Public Schools conserve resources by making more targeted investments. With the COVID-19 environment, Baltimore City Public Schools could also consider bolstering the online components of their prior cares to sustain the impact of their programs. 
