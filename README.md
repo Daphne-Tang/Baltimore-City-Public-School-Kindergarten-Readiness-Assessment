@@ -97,6 +97,8 @@ In this analysis:
 
 Approximately 50% of schools fall into the "Medium Physiosocial Development" category. About 12.5% of schools are in the "Low Physiosocial Development" cluster and about 37.5% in the "High Physiosocial Development" cluster. In other words, about two thirds of Baltimore Public Schools are in clusters that represent below average physiosocial development. 
 
+The following two charts show the average z-scores for each variable with respect to each cluster:
+
 #### Cluster Visualization 1 - Readiness
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Readiness%20Cluster%20Chart.png)
 
