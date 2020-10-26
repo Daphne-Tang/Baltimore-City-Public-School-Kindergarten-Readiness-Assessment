@@ -87,13 +87,13 @@ Approximately 50% of schools fall into the "Medium Readiness" category, whereas 
 In this analysis:
 - Cluster 1 "Low Physiosocial Development" (Count: 12) 
   - Anchored to Guilford Elementary/Middle School
-  - Well below avaerage in language/literacy, math, physical development, and social foundations scores 
+  - Well below average in language/literacy, math, physical development, and social foundations scores 
 - Cluster 2 "Medium Physiosocial Development" (Count: 63)
   - Anchored to Furman Templeton Prepatory Academy
-  - Slightly below avaerage in language/literacy, math, physical development, and social foundations scores 
+  - Slightly below average in language/literacy, math, physical development, and social foundations scores 
 - Cluster 3 "High Physiosocial Development" (Count: 36)
   - Anchored to Dorothy I. Height Elementary School
-  - Above avaerage in language/literacy, math, physical development, and social foundations scores 
+  - Above average in language/literacy, math, physical development, and social foundations scores 
 
 Approximately 50% of schools fall into the "Medium Physiosocial Development" category. About 12.5% of schools are in the "Low Physiosocial Development" cluster and about 37.5% in the "High Physiosocial Development" cluster. In other words, about two thirds of Baltimore Public Schools are in clusters that represent below average physiosocial development. 
 
