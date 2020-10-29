@@ -65,7 +65,7 @@ The following two graphs demonstrate the scores for economically disadvantaged s
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/Average%20Scores%20for%20English%20Learners.png)
 
 ### Cluster Analysis
-Cluster analyses show how Baltimore Public Schools can be grouped in terms of 1) readiness 2) academic, physical, social development. The following tables show two 3x-cluster analyses for kindgergarteners at Baltimore Public Schools. The first is based on readiness: Percent Emerging Readiness, Percent Approaching Readiness, and Percent Demonstrating Readiness. The second is based on academic, physical, social development: Average Language and Literacy Score, Average Math Score, Average Physical Development Score, and Average Social Foundations Score. 
+Cluster analyses show how Baltimore Public Schools can be grouped in terms of 1) readiness 2) academic, physical, social development. The following tables show two 3x-cluster analyses for kindergarteners at Baltimore Public Schools. The first is based on readiness: Percent Emerging Readiness, Percent Approaching Readiness, and Percent Demonstrating Readiness. The second is based on academic, physical, social development: Average Language and Literacy Score, Average Math Score, Average Physical Development Score, and Average Social Foundations Score. 
 
 #### Cluster 1 - Readiness
 ![alt text](https://github.com/Daphne-Tang/Baltimore-City-Public-School-Kindergarten-Readiness-Assessment/blob/main/Screenshots/cluster%20readiness.png) 
